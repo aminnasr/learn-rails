@@ -8,6 +8,7 @@ gem 'sass-rails', github: 'rails/sass-rails', branch: '4-0-stable'
 gem 'uglifier', '1.3.0'
 gem 'coffee-rails', '4.0.1' 
 gem 'jquery-rails'
+gem 'jquery-turbolinks'
 gem 'turbolinks'
 gem 'jbuilder', '1.2'
 
